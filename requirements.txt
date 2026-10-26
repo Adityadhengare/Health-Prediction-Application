@@ -1,0 +1,8 @@
+# Core application framework
+streamlit>=1.35.0
+
+# Environment variable management
+python-dotenv>=1.0.1
+
+# Official Google GenAI SDK for Gemini API integration
+google-genai>=0.1.1

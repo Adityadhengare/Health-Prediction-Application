@@ -1,0 +1,25 @@
+# Environment files containing sensitive API keys and secrets
+.env
+*.env
+
+# SQLite local database files (keep local data out of Git)
+*.db
+*.sqlite3
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual environment folders
+venv/
+.venv/
+env/
+ENV/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
