@@ -137,5 +137,5 @@ Below is the candidate information table requested on Page 1 of the official ass
 | **Do you have an i5 or equivalent laptop/PC and internet speed of at least 40 Mbps?** | Yes |
 | **What time you can start work (8 Hours work and 1-2 hours break)** | 6:00 AM (Monday–Saturday, 8 hours/day) |
 | **GitHub Repository Link** | https://github.com/Adityadhengare/Health-Prediction-Application |
-| **App Video Link** | `[Insert your Google Drive Video Link - Set to 'Anyone with link can view']` |
+| **App Video Link** | https://drive.google.com/file/d/1_vkgQsJ5JWANzEFbQc-ZJjEbvK6eyPcR/view?usp=drive_link |
 
