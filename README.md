@@ -127,15 +127,15 @@ Below is the candidate information table requested on Page 1 of the official ass
 
 | Field | Candidate Submission Value |
 | :--- | :--- |
-| **Candidate Number** | `115` |
+| **Candidate Number** | 115 |
 | **Name** | Aditya Dhengare |
-| **Mobile Number** | `[Insert your Mobile Number]` |
-| **Email ID** | `[Insert your Email ID used for Task 1]` |
+| **Mobile Number** | 9022738515 |
+| **Email ID** | dhengareaditya5@gmail.com |
 | **Education Qualifications** | B.Tech completed (CGPA: 7.0) |
-| **Any Previous Experience?** | `[Yes/No - Insert details if any]` |
-| **Notice Period Required** | `[Immediate / Insert days]` |
-| **Do you have an i5 or equivalent laptop/PC and internet speed of at least 40 Mbps?** | `[Yes/No]` |
-| **What time you can start work (8 Hours work and 1-2 hours break)** | `6:00 AM` (Monday–Saturday, 8 hours/day) |
+| **Any Previous Experience?** | Yes - Data Scientist Intern in Delfine India Technology |
+| **Notice Period Required** | Immediate |
+| **Do you have an i5 or equivalent laptop/PC and internet speed of at least 40 Mbps?** | Yes |
+| **What time you can start work (8 Hours work and 1-2 hours break)** | 6:00 AM (Monday–Saturday, 8 hours/day) |
 | **GitHub Repository Link** | https://github.com/Adityadhengare/Health-Prediction-Application |
 | **App Video Link** | `[Insert your Google Drive Video Link - Set to 'Anyone with link can view']` |
 
