@@ -131,7 +131,7 @@ Below is the candidate information table requested on Page 1 of the official ass
 | **Name** | Aditya Dhengare |
 | **Mobile Number** | 9022738515 |
 | **Email ID** | dhengareaditya5@gmail.com |
-| **Education Qualifications** | B.Tech completed (CGPA: 7.79) |
+| **Education Qualifications** | B.Tech completed (CGPA: 7.71) |
 | **Any Previous Experience?** | Yes - Data Scientist Intern in Delfine India Technology |
 | **Notice Period Required** | Immediate |
 | **Do you have an i5 or equivalent laptop/PC and internet speed of at least 40 Mbps?** | Yes |
